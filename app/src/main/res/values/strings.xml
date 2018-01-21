@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Be Positive Blood Bank COET</string>
+    <string-array name="blood_type">
+        <item>A+</item>
+        <item>B+</item>
+        <item>AB+</item>
+        <item>O+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>AB-</item>
+        <item>O-</item>
+    </string-array>
+    <string-array name="panch">
+
+        <!--civil-->
+
+        <item>S1 CE</item>
+        <item>S2 CE</item>
+        <item>S3 CE</item>
+        <item>S4 CE</item>
+        <item>S5 CE</item>
+        <item>S6 CE</item>
+        <item>S7 CE</item>
+        <item>S8 CE</item>
+
+        <!--COMPUTER SCIENCE ENGINEERING-->
+        <item>S1 CSE</item>
+        <item>S2 CSE</item>
+        <item>S3 CSE</item>
+        <item>S4 CSE</item>
+        <item>S5 CSE</item>
+        <item>S6 CSE</item>
+        <item>S7 CSE</item>
+        <item>S8 CSE</item>
+
+        <!--electrical-->
+        <item>S1 EEE</item>
+        <item> S2 EEE</item>
+        <item>S3 EEE</item>
+        <item>S4 EEE</item>
+        <item>S5 EEE</item>
+        <item>S6 EEE</item>
+        <item>S7 EEE</item>
+        <item>S8 EEE</item>
+
+
+        <!--ELECTRONICS1-->
+        <item>S1 EC1</item>
+        <item>S2 EC1</item>
+        <item>S3 EC1</item>
+        <item>S4 EC1</item>
+        <item>S5 EC1</item>
+        <item>S6 EC1</item>
+        <item>S7 EC1</item>
+        <item>S8 EC1</item>
+
+        <!--ELECTRONICS 2-->
+        <item>S1 EC2</item>
+        <item>S2 EC2</item>
+        <item>S3 EC2</item>
+        <item>S4 EC2</item>
+        <item>S5 EC2</item>
+        <item>S6 EC2</item>
+        <item>S7 EC2</item>
+        <item>S8 EC2</item>
+
+        <!--INFORMATION TECHNOLOGY-->
+        <item>S1 IT</item>
+        <item>S2 IT</item>
+        <item>S3 IT</item>
+        <item>S4 IT</item>
+        <item>S5 IT</item>
+        <item>S6 IT</item>
+        <item>S7 IT</item>
+        <item>S8 IT</item>
+
+        <!--MECHANICAL ENGINEERING-->
+        <item>S1 ME</item>
+        <item>S2 ME</item>
+        <item>S3 ME</item>
+        <item>S4 ME</item>
+        <item>S5 ME</item>
+        <item>S6 ME</item>
+        <item>S7 ME</item>
+        <item>S8 ME</item>
+
+    </string-array>
+</resources>
